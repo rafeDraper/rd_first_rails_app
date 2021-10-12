@@ -14,7 +14,7 @@ group :production do
   gem 'pg'
 end
 # Use Puma as the app server
-gem 'puma', '4.3.3'
+gem 'puma', '4.3.9'
 # Use SCSS for stylesheets
 gem 'sass-rails', '6.0.0'
 # Use Uglifier as compressor for JavaScript assets
